@@ -1,0 +1,9 @@
+@CHARSET "UTF-8";
+
+#map_canvas{
+	height: 200px;
+}
+
+#searchList{
+	overflow: auto;
+}

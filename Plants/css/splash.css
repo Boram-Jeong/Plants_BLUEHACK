@@ -1,0 +1,11 @@
+@CHARSET "UTF-8";
+body {
+    background-color: #b0c4de;
+}
+img.sp {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 35%;
+    margin-bottom: auto;
+}

@@ -1,0 +1,67 @@
+@CHARSET "UTF-8";
+
+html {
+	height: 100%;
+}
+
+body {
+	height: 100%;
+}
+
+#page {
+	height: 100% !important;
+}
+
+#contents {
+	height: 100%;
+}
+
+#searchForm {
+	width: 100%;
+	padding: 5px;
+	background: #eeeeee;
+}
+
+#map {
+	background: #99ee99;
+	height: 532px;
+	line-height: 552px;
+	vertical-align: center;
+	text-align: center;
+}
+
+#map_canvas {
+	height: 522px;
+	margin: 0px;
+	padding: 0px
+}
+
+#categoryButtonGroup {
+	position: absolute;
+	margin-top: 480px;
+	margin-left: 10px; 
+	z-index: 20;
+}
+
+#cate1 {
+	background-color: #ff8383;
+}
+#cate2 {
+	background-color: #a1ff98;
+}
+#cate3 {
+	background-color: #79aaff;
+}
+#cate4 {
+	background-color: #ffff92;
+}
+
+#header #title {
+	margin-left: 34px;
+}
+
+#header span {
+	float: right;
+	margin-top: 10px;
+	margin-right: 10px;
+}
